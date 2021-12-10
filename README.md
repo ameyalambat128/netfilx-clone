@@ -1,6 +1,6 @@
-<div style='center'>
+
 ![Netflix-clone](https://user-images.githubusercontent.com/63185829/145515481-1bff7e11-db32-4782-b27e-997638a3cb03.png)
-</div>
+
 # Netflix Clone
 
 Created a netflix clone using React
