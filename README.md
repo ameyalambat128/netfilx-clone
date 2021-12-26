@@ -4,7 +4,7 @@
 # Netflix Clone
 
 Created a netflix clone using React
-Experince this website through https://netflix-clone-a5295.firebaseapp.com/
+Experience this website through https://netflix-clone-a5295.firebaseapp.com/
 
 
 - Clone this repository
